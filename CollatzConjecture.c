@@ -15,7 +15,7 @@ int main(){
     int numChoice = 1;
     int stepNum = 0;
 
-    printf("\nPlease enter a number to fund the amount of steps \nit takes to reach one using the Collatz Conjecture\n\nNumber: ");
+    printf("\nPlease enter a number to find the amount of steps \nit takes to reach one using the Collatz Conjecture\n\nNumber: ");
     scanf("%d", &numChoice);
     printf("------------------------------------\n");
     
